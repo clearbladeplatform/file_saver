@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,file_saver",
+    "logging_enabled": "false",
+    "name": "file_saverSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "file_saverSmokeTest.js"
+}
